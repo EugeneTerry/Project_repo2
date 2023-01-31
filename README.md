@@ -1,2 +1,2 @@
-# Project_repo2
-Second repo
+# Creating Cards
+This Repo is dedicated to getting my mojo back
