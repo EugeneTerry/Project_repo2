@@ -1,2 +1,2 @@
 # Creating Cards
-This Repo is dedicated to getting my mojo back
+This Repo is dedicated to getting my MOJO back
